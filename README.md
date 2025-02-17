@@ -23,6 +23,6 @@ Currently focusing on:
 - Learning about **AI development** and its applications in the coding world.
 
 ## 📫 Let’s Connect!
-I’d love to collaborate on projects and learn from other developers! Connect with me on **LinkedIn @AnikethP21**.
+I’d love to collaborate on projects and learn from other developers! Connect with me on **LinkedIn @Aniketh Pamu**.
 
 Thanks for stopping by! 🚀
